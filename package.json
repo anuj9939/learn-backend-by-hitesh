@@ -1,0 +1,22 @@
+{
+  "name": "learn-backend-by-hitesh",
+  "version": "1.0.0",
+  "description": "learning node backend from hitesh",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anuj Kumar",
+  "license": "ISC",
+  "keywords": [
+    "nodejs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anuj9939/learn-backend-by-hitesh.git"
+  },
+  "bugs": {
+    "url": "https://github.com/anuj9939/learn-backend-by-hitesh/issues"
+  },
+  "homepage": "https://github.com/anuj9939/learn-backend-by-hitesh#readme"
+}
