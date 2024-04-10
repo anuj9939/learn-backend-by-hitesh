@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/anuj9939/learn-backend-by-hitesh/issues"
   },
-  "homepage": "https://github.com/anuj9939/learn-backend-by-hitesh#readme"
+  "homepage": "https://github.com/anuj9939/learn-backend-by-hitesh#readme",
+  "dependencies": {
+    "mongoose": "^8.3.1"
+  }
 }
