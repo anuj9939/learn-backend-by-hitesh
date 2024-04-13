@@ -2,9 +2,11 @@
   "name": "learn-backend-by-hitesh",
   "version": "1.0.0",
   "description": "learning node backend from hitesh",
+  "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/index.js"
   },
   "author": "Anuj Kumar",
   "license": "ISC",
@@ -18,5 +20,12 @@
   "bugs": {
     "url": "https://github.com/anuj9939/learn-backend-by-hitesh/issues"
   },
-  "homepage": "https://github.com/anuj9939/learn-backend-by-hitesh#readme"
+  "homepage": "https://github.com/anuj9939/learn-backend-by-hitesh#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.0",
+    "prettier": "^3.2.5"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
 }
